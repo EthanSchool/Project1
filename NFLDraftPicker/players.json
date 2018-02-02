@@ -1,0 +1,241 @@
+﻿{
+    "lables": {
+        "x": [
+            "Type",
+            "The Best",
+            "2nd Best",
+            "3rd Best",
+            "4th Best",
+            "5th Best",
+            "Information"
+        ],
+        "y": [
+            "Quarterback",
+            "Running Back",
+            "Wide-Receiver",
+            "Defensive Lineman",
+            "Defensive-Back",
+            "Tight Ends",
+            "Line-Backer's",
+            "Offensive Tackles"
+        ]
+    },
+    "values": [
+        [//"Quarterback"
+            {
+                "Name": "Mason Rudolph",
+                "From": "Oklahoma State",
+                "Cost": 26400100
+            },
+            {
+                "Name": "Lamar Jackson",
+                "From": "Louisville",
+                "Cost": 20300100
+            },
+            {
+                "Name": "Josh Rosen",
+                "From": "UCLA",
+                "Cost": 17420300
+            },
+            {
+                "Name": "Sam Darnold",
+                "From": "Southern California",
+                "Cost": 13100145
+            },
+            {
+                "Name": "Baker Mayfield",
+                "From": "Oklahoma",
+                "Cost": 10300000
+            }
+        ],
+        [//"Running Back"
+            {
+                "Name": "Saquon Barkley",
+                "From": "Penn State",
+                "Cost": 24500100
+            },
+            {
+                "Name": "Derrius Guice",
+                "From": "LSU",
+                "Cost": 19890200
+            },
+            {
+                "Name": "Bryce Love",
+                "From": "Stanford",
+                "Cost": 18700800
+            },
+            {
+                "Name": "Ronald Jones II",
+                "From": "Southern California",
+                "Cost": 15000000
+            },
+            {
+                "Name": "Damien Harris",
+                "From": "Alabama",
+                "Cost": 11600400
+            }
+        ],
+        [//"Wide-Receiver"
+            {
+                "Name": "Courtland Sutton",
+                "From": "Southern Methodist",
+                "Cost": 23400000
+            },
+            {
+                "Name": "James Washington",
+                "From": "Oklahoma State",
+                "Cost": 21900300
+            },
+            {
+                "Name": "Marcell Ateman",
+                "From": "Oklahoma State",
+                "Cost": 19300230
+            },
+            {
+                "Name": "Anthony Miller",
+                "From": "Memphis",
+                "Cost": 13400230
+            },
+            {
+                "Name": "Calvin Ridley",
+                "From": "Alabama",
+                "Cost": 10000000
+            }
+        ],
+        [//"Defensive Lineman"
+            {
+                "Name": "Maurice Hurst",
+                "From": "Michigan",
+                "Cost": 26200300
+            },
+            {
+                "Name": "Vita Vea",
+                "From": "Washington",
+                "Cost": 22000000
+            },
+            {
+                "Name": "Taven Bryan",
+                "From": "Florida",
+                "Cost": 16000000
+            },
+            {
+                "Name": "Da'Ron Payne",
+                "From": "Alabama",
+                "Cost": 18000000
+            },
+            {
+                "Name": "Harrison Phillips",
+                "From": "Stanford",
+                "Cost": 13000000
+            }
+        ],
+        [//"Defensive-Back"
+            {
+                "Name": "Joshua Jackson",
+                "From": "Iowa",
+                "Cost": 24000000
+            },
+            {
+                "Name": "Derwin James",
+                "From": "Florida State",
+                "Cost": 22500249
+            },
+            {
+                "Name": "Denzel Ward",
+                "From": "Ohio State",
+                "Cost": 20000100
+            },
+            {
+                "Name": "Minkah Fitzpatrick",
+                "From": "Alabama",
+                "Cost": 16000200
+            },
+            {
+                "Name": "Isaiah Oliver",
+                "From": "Colorado",
+                "Cost": 11899999
+            }
+        ],
+        [//"Tight Ends"
+            {
+                "Name": "Mark Andrews",
+                "From": "Oklahoma",
+                "Cost": 27800900
+            },
+            {
+                "Name": "Dallas Goedert",
+                "From": "So. Dakota State",
+                "Cost": 21000800
+            },
+            {
+                "Name": "Jaylen Samuels",
+                "From": "NC State",
+                "Cost": 17499233
+            },
+            {
+                "Name": "Mike Gesicki",
+                "From": "Penn State",
+                "Cost": 27900200
+            },
+            {
+                "Name": "Troy Fumagalli",
+                "From": "Wisconsin",
+                "Cost": 14900333
+            }
+        ],
+        [//"Line-Backer's"
+            {
+                "Name": "Roquan Smith",
+                "From": "Georgia",
+                "Cost": 22900300
+            },
+            {
+                "Name": "Tremaine Edmunds",
+                "From": "Virgina Tech",
+                "Cost": 19000590
+            },
+            {
+                "Name": "Kendall Joseph",
+                "From": "Clemson",
+                "Cost": 18000222
+            },
+            {
+                "Name": "Dorian O'Daniel",
+                "From": "Clemson",
+                "Cost": 12999999
+            },
+            {
+                "Name": "Malik Jefferson",
+                "From": "Texas",
+                "Cost": 10000100
+            }
+        ],
+        [//"Offensive Tackles"
+            {
+                "Name": "Orlando Brown",
+                "From": "Oklahoma",
+                "Cost": 23000000
+            },
+            {
+                "Name": "Kolton Miller",
+                "From": "UCLA",
+                "Cost": 20000000
+            },
+            {
+                "Name": "Chukwuma Okorafor",
+                "From": "Western Michigan",
+                "Cost": 19400000
+            },
+            {
+                "Name": "Connor Williams",
+                "From": "Texas",
+                "Cost": 16200700
+            },
+            {
+                "Name": "Mike McGlinchey",
+                "From": "Notre Dame",
+                "Cost": 15900000
+            }
+        ]
+    ]
+}
